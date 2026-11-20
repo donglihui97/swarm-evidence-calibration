@@ -1,0 +1,10 @@
+{
+  "block": "robustness",
+  "root_seed": 20261119,
+  "worlds": 3600,
+  "records": 28800,
+  "seconds": 619.0,
+  "python": "3.14.4",
+  "numpy": "2.5.3",
+  "platform": "Windows-11-10.0.26200-SP0"
+}

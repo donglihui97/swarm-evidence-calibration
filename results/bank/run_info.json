@@ -1,0 +1,10 @@
+{
+  "block": "bank",
+  "root_seed": 20261119,
+  "worlds": 16800,
+  "records": 134400,
+  "seconds": 2880.7,
+  "python": "3.14.4",
+  "numpy": "2.5.3",
+  "platform": "Windows-11-10.0.26200-SP0"
+}
