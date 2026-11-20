@@ -2,7 +2,7 @@
 
 Code and simulation records for the paper
 
-> Lihui Dong, Zhuo Li and Yue Dong. *How much independent evidence does a swarm collect? Spatial coupling, information fusion and calibrated confidence in collective perception.* Submitted to *Adaptive Behavior*.
+> Lihui Dong and Zhuo Li. *How much independent evidence does a swarm collect? Spatial coupling, information fusion and calibrated confidence in collective perception.* Submitted to *Adaptive Behavior*.
 
 A robot swarm that perceives its environment collectively fuses thousands of binary readings into one decision. Readings taken close together in space repeat the same evidence, so the number of readings overstates what the swarm knows. How strongly it does so depends on the swarm's own behaviour: a shared launch site, a leader–follower formation or fusing readings received over short-range radio all make the robots' readings depend on each other. This repository measures that loss and corrects for it.
 
